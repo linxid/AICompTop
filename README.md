@@ -1,5 +1,4 @@
 # AICompTop
-## 一、数据类型比赛：
 
 Data competition Top Solution 数据竞赛Top解决方案开源整理
 
@@ -113,7 +112,7 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 * [Rank2-Flyfoxs](https://github.com/Flyfoxs/tinymind_sex_age)
 * [Rank3-algosenses](https://github.com/algosenses/tinymind-gender-age-prediction)
 
-## 二、NLP：
+## 二、NLP（自然语言处理）：
 
 1. 2018 DC达观-文本智能处理挑战   
    Rank1: https://github.com/ShawnyXiao/2018-DC-DataGrand-TextIntelProcess   
@@ -167,4 +166,3 @@ http://t.cn/ReIJOXK
 * Kaggle | Winner Interview http://blog.kaggle.com/2018/09/14/pei-lien-chou/
 * Ask Me Anything session with a Kaggle Grandmaster Vladimir I. Iglovikov http://t.cn/Eww4nnu
 * 2018 NIPS视觉对抗挑战总结 http://t.cn/EAMqw0P
-      
