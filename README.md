@@ -116,10 +116,14 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 
 1. 2018 DC达观-文本智能处理挑战   
    Rank1: https://github.com/ShawnyXiao/2018-DC-DataGrand-TextIntelProcess   
-   Rank4: https://github.com/hecongqing/2018-daguan-competition   
+   Rank4: https://github.com/hecongqing/2018-daguan-competition  
+   Rank8：https://github.com/Rowchen/Text-classifier  
    Rank10: https://github.com/moneyDboat/data_grand   
+   Rank11：https://github.com/TianyuZhuuu/DaGuan_TextClassification_Rank11  
    Rank18: https://github.com/nlpjoe/daguan-classify-2018   
+   Rank29：https://github.com/wangjiaxin24/daguan_NLP  
    RankX: https://github.com/yanqiangmiffy/daguan 
+   
 2. 智能客服问题相似度算法设计——第三届魔镜杯大赛  
    rank6 https://github.com/qrfaction/paipaidai  
    rank12 https://www.jianshu.com/p/827dd447daf9
