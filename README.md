@@ -141,7 +141,12 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
    
 5. 路透社新闻数据集“深度”探索性分析(词向量/情感分析)        
    https://www.kaggle.com/hoonkeng/deep-eda-word-embeddings-sentiment-analysis/notebook
+   
+6. [Aichallenger细粒度用户评论情感分析](https://challenger.ai/competition/fsauor2018)  
+   Rank17：https://github.com/BigHeartC/Al_challenger_2018_sentiment_analysis  
 
+7. [Kaggle Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)  
+   Rank2：https://github.com/thinline72/toxic
    
 ### 三、大佬的Github：
 1. 植物 ：https://github.com/plantsgo 
