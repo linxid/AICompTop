@@ -147,6 +147,7 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 
 7. [Kaggle Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)  
    Rank2：https://github.com/thinline72/toxic
+   Rank12: https://github.com/thinline72/toxic
    
 ### 三、大佬的Github：
 1. 植物 ：https://github.com/plantsgo 
