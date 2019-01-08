@@ -146,8 +146,17 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
    Rank17：https://github.com/BigHeartC/Al_challenger_2018_sentiment_analysis  
 
 7. [Kaggle Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)  
-   Rank2：https://github.com/thinline72/toxic
-   Rank12: https://github.com/thinline72/toxic
+   1st : https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/52557  
+   2nd : https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/52612  
+   3rd (single model): https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/52644  
+   3rd : https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/52762  
+   5th : https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/52630   
+   12th : https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/52702  
+   15th : https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/52563  
+   25th : https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/52647  
+   27th : https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/52719  
+   33rd : https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/52666  
+   34th : https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/52645  
    
 ### 三、大佬的Github：
 1. 植物 ：https://github.com/plantsgo 
