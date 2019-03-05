@@ -123,7 +123,7 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
    Rank18: https://github.com/nlpjoe/daguan-classify-2018   
    Rank29：https://github.com/wangjiaxin24/daguan_NLP  
    RankX: https://github.com/yanqiangmiffy/daguan 
-   
+
 2. 智能客服问题相似度算法设计——第三届魔镜杯大赛  
    rank6 https://github.com/qrfaction/paipaidai  
    rank12 https://www.jianshu.com/p/827dd447daf9
@@ -157,6 +157,14 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
    27th : https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/52719  
    33rd : https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/52666  
    34th : https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/52645  
+
+8. [百度机器阅读理解竞赛-2018](http://lic2019.ccf.org.cn/read)  
+   3rd	https://github.com/312shan/rc_tf   
+   6th	https://github.com/lxwuguang/G-Reader  
+   11st	https://github.com/SeanLee97/QANet_dureader  
+   24th	https://github.com/jingyihiter/myDuReader  
+   28th	https://github.com/shiningliang/MRC2018  
+   
    
 ### 三、大佬的Github：
 1. 植物 ：https://github.com/plantsgo 
