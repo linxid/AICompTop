@@ -5,7 +5,8 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 ## 一、数据竞赛：
 
 1. 2018科大讯飞AI营销算法大赛  
-   Rank1：https://zhuanlan.zhihu.com/p/47807544
+   Rank1：https://zhuanlan.zhihu.com/p/47807544  
+   Rank2: [科大讯飞转化率预估](https://github.com/infturing/kdxf#%E5%9B%A0%E4%B8%BA%E6%88%91%E8%A7%89%E7%9A%84%E6%B2%A1%E6%9C%89%E4%BA%B2%E8%BA%AB%E7%BB%8F%E5%8E%86%E4%B8%80%E4%B8%AA%E6%AF%94%E8%B5%9B%E5%92%8C%E6%95%B0%E6%8D%AE%E6%98%AF%E5%BE%88%E9%9A%BE%E6%84%9F%E5%90%8C%E8%BA%AB%E5%8F%97%E6%89%80%E4%BB%A5%E6%88%91%E5%BE%88%E5%B0%91%E7%9C%8B%E5%88%AB%E4%BA%BA%E5%BC%80%E6%BA%90%E4%B8%80%E8%88%AC%E5%8F%AA%E7%9C%8Breadme%E5%98%BF%E5%98%BF%E4%BB%A3%E7%A0%81%E6%B3%A8%E9%87%8A%E4%B9%9F%E5%BE%88%E5%B0%91%E5%8F%97%E4%BC%97%E6%98%AF%E4%B8%80%E4%BA%9B%E5%AF%B9readme%E6%9C%89feel%E5%92%8C%E5%8F%82%E4%B8%8E%E8%BF%87%E6%AF%94%E8%B5%9B%E4%BA%BA%E5%A6%82%E6%9E%9C%E7%9C%8B%E4%B8%8D%E6%87%82%E6%84%9F%E5%88%B0%E4%B8%8D%E9%80%82%E8%AF%B7%E8%A7%81%E8%B0%85)  
 
 2. 2018 IJCAI 阿里妈妈搜索广告转化预测  
    Rank1：https://github.com/plantsgo/ijcai-2018   
@@ -164,7 +165,19 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
    11st	https://github.com/SeanLee97/QANet_dureader  
    24th	https://github.com/jingyihiter/myDuReader  
    28th	https://github.com/shiningliang/MRC2018  
-   
+  
+9. [kaggle-Quora Insincere Questions Classification](https://www.kaggle.com/c/quora-insincere-questions-classification)
+[1st place solution](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80568)  
+[1st place solution (public LB)]( https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80665)  
+[3rd place kernel](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80495)  
+[7th place solution - bucketing](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80561)  
+[10th place solution - Meta embedding, EMA, Ensemble](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80718)  
+[13th place solution-kernel](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80499)  
+[15th Solution - focus on models](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80540)  
+[18th place solution from 300-th at Public LB](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80696)  
+[20th solution - 2 models, various embeds, mixed loss](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80527)  
+[27th kernel](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80494)  
+
    
 ### 三、大佬的Github：
 1. 植物 ：https://github.com/plantsgo 
