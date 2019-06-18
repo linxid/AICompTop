@@ -113,6 +113,18 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 * [Rank2-Flyfoxs](https://github.com/Flyfoxs/tinymind_sex_age)
 * [Rank3-algosenses](https://github.com/algosenses/tinymind-gender-age-prediction)
 
+23. [ACM RecSys Challenge 2018](http://www.recsyschallenge.com/2018/)  
+* [Rank1-vl6](https://github.com/layer6ai-labs/vl6_recsys2018)
+* [Rank2-hello world!](https://github.com/hojinYang/spotify_recSys_challenge_2018)
+* [Rank3-Avito](https://github.com/VasiliyRubtsov/recsys2018)
+* [Rank4 Creamy Fireflies](https://github.com/tmscarla/spotify-recsys-challenge)
+* [Rank5-MIPT_MSU](https://github.com/zakharovas/RecSys2018)
+* [Rank6 HAIR](https://github.com/LauraBowenHe/Recsys-Spotify-2018-challenge)
+* [Rank7 KAENEN](https://github.com/rn5l/rsc18)
+* [Rank8 BachPropagate](https://bachpropagate.weebly.com/)
+* [Rank9 Definitive Turtles](https://github.com/proto-n/recsys-challenge-2018)
+* [Rank10 IN3PD](https://github.com/guglielmof/recsys_spt2018MI)
+
 ## 二、NLP（自然语言处理）：
 
 1. 2018 DC达观-文本智能处理挑战   
